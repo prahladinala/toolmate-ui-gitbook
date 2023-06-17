@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Tailwind CSS is a popular utility-first CSS framework that provides a set of pre-built classes to rapidly build modern and responsive user interfaces. Unlike traditional CSS frameworks like Bootstrap or Foundation, Tailwind CSS does not have predefined components or styles. Instead, it focuses on providing a comprehensive collection of utility classes that can be combined to create custom designs.
 
@@ -35,4 +35,7 @@ To use Tailwind CSS, you need to install it as a dependency in your project and 
 
 Tailwind CSS has gained popularity among developers due to its flexibility, ease of use, and ability to rapidly prototype and build user interfaces. It provides a solid foundation for creating modern and responsive designs while allowing for customization and maintaining a streamlined development workflow.
 
-### For a more detailed article refer: [https://blogs.prahladinala.in/series/tailwind](https://blogs.prahladinala.in/series/tailwind)
+### For a more detailed article refer to the following:
+
+{% embed url="https://blogs.prahladinala.in/series/tailwind" %}
+

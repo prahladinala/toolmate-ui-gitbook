@@ -1,11 +1,11 @@
 ---
-cover: ../.gitbook/assets/Tailwind - History (2).png
+cover: ../.gitbook/assets/Tailwind - History (1).png
 coverY: 0
 ---
 
 # History of Tailwind CSS
 
-<figure><img src="../.gitbook/assets/Tailwind - History (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Tailwind - History (2).png" alt=""><figcaption></figcaption></figure>
 
 ## History of Tailwind CSS
 
@@ -13,7 +13,7 @@ The idea behind Tailwind CSS originated from the team's frustration with the lim
 
 The initial release of Tailwind CSS introduced a comprehensive set of utility classes that covered a wide range of design aspects, such as spacing, typography, colors, flexbox, and more. These utility classes were designed to be highly composable, allowing developers to combine them to create custom designs without writing additional CSS code.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 \
 As Tailwind CSS gained popularity, its community grew rapidly. Developers appreciated its approach to providing granular control over styles and the ability to build responsive layouts easily. The framework's flexibility and customization options also played a significant role in its adoption.
@@ -29,12 +29,15 @@ The Tailwind CSS team actively maintains and supports the framework, releasing r
 
 Overall, Tailwind CSS has made a significant impact on the frontend development landscape, offering a unique approach to building user interfaces with its utility-first methodology and empowering developers to create custom designs efficiently.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Tailwind v0.7.4 Documentation:** [https://tailwindcss-v0.netlify.app/](https://tailwindcss-v0.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Tailwind Latest Documentation:** [https://tailwindcss.com/](https://tailwindcss.com/docs/)
 
-### For a more detailed article refer: [https://blogs.prahladinala.in/series/tailwind](https://blogs.prahladinala.in/series/tailwind)
+### For a more detailed article refer to the following:&#x20;
+
+{% embed url="https://blogs.prahladinala.in/series/tailwind" %}
+
