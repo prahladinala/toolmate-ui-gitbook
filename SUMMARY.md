@@ -6,7 +6,10 @@
 
 * [History of Tailwind CSS](configuration/history-of-tailwind-css.md)
 * [Introduction to Tailwind CSS](configuration/introduction-to-tailwind-css.md)
-* [Installation via CDN](configuration/installation-via-cdn.md)
+* [Installation via Tailwind CDN](configuration/installation-via-tailwind-cdn.md)
+* [Installation via Tailwind CLI](configuration/installation-via-tailwind-cli.md)
+* [Installation for React Project](configuration/installation-for-react-project.md)
+* [Page 1](configuration/page-1.md)
 * [Accessibility](configuration/accessibility.md)
 
 ## identity

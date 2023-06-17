@@ -1,0 +1,2 @@
+# Installation via Tailwind CLI
+

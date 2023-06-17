@@ -1,3 +1,7 @@
+---
+layout: landing
+---
+
 # 🖌 Getting started
 
 ## Welcome to ToolMate UI!

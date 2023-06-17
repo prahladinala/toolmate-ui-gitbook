@@ -29,11 +29,11 @@ The Tailwind CSS team actively maintains and supports the framework, releasing r
 
 Overall, Tailwind CSS has made a significant impact on the frontend development landscape, offering a unique approach to building user interfaces with its utility-first methodology and empowering developers to create custom designs efficiently.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 **Tailwind v0.7.4 Documentation:** [https://tailwindcss-v0.netlify.app/](https://tailwindcss-v0.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 **Tailwind Latest Documentation:** [https://tailwindcss.com/](https://tailwindcss.com/docs/)
 
