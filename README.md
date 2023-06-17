@@ -6,6 +6,8 @@ Supercharge website creation using ToolMate's UI component library to ship at li
 
 ToolMate UI, a user-friendly and all-inclusive open-source UI component library (built with TailwindCSS), is crafted to amplify your efficiency as a developer.
 
+<figure><img src=".gitbook/assets/ToolMate - Introduction.png" alt=""><figcaption></figcaption></figure>
+
 ### Features
 
 * Customizable
