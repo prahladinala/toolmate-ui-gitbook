@@ -2,12 +2,12 @@
 
 * [🖌 Getting started](README.md)
 
-## INTRODUCTION
+## CONFIGURATION
 
-* [🙂 Installation via CDN](introduction/installation-via-cdn.md)
-* [👾 Installation on React JS](introduction/installation-on-react-js.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [History of Tailwind CSS](configuration/history-of-tailwind-css.md)
+* [Introduction to Tailwind CSS](configuration/introduction-to-tailwind-css.md)
+* [Installation via CDN](configuration/installation-via-cdn.md)
+* [Accessibility](configuration/accessibility.md)
 
 ## identity
 
