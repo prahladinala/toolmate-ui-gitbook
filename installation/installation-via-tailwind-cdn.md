@@ -1,4 +1,4 @@
-# Installation via CDN
+# Installation via Tailwind CDN
 
 ## Tailwind CSS Project setup using a CDN (Content Delivery Network)
 
@@ -14,7 +14,7 @@ For production, you can use other options like Tailwind CLI, Using PostCSS which
 
 1. Start by creating a new HTML file or open an existing one where you want to use Tailwind CSS.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2. Add an HTML boilerplate code to that HTML file
 
@@ -91,7 +91,7 @@ For production, you can use other options like Tailwind CLI, Using PostCSS which
 
 Output:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 OR simply clone this GitHub repository:
 

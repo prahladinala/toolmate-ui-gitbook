@@ -2,7 +2,7 @@
 
 
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 Tailwind CSS is a popular utility-first CSS framework that provides a set of pre-built classes to rapidly build modern and responsive user interfaces. Unlike traditional CSS frameworks like Bootstrap or Foundation, Tailwind CSS does not have predefined components or styles. Instead, it focuses on providing a comprehensive collection of utility classes that can be combined to create custom designs.
 
