@@ -8,7 +8,7 @@ The idea behind Tailwind CSS originated from the team's frustration with the lim
 
 The initial release of Tailwind CSS introduced a comprehensive set of utility classes that covered a wide range of design aspects, such as spacing, typography, colors, flexbox, and more. These utility classes were designed to be highly composable, allowing developers to combine them to create custom designs without writing additional CSS code.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 \
 As Tailwind CSS gained popularity, its community grew rapidly. Developers appreciated its approach to providing granular control over styles and the ability to build responsive layouts easily. The framework's flexibility and customization options also played a significant role in its adoption.
