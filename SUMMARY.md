@@ -2,22 +2,30 @@
 
 * [🖌 Getting Started](README.md)
 
-## CONFIGURATION
+## INTRODUCTION
 
-* [History of Tailwind CSS](configuration/history-of-tailwind-css.md)
-* [Introduction to Tailwind CSS](configuration/introduction-to-tailwind-css.md)
-* [Installation via Tailwind CDN](configuration/installation-via-tailwind-cdn.md)
-* [Installation via Tailwind CLI](configuration/installation-via-tailwind-cli.md)
-* [Installation for React Project](configuration/installation-for-react-project.md)
-* [Page 1](configuration/page-1.md)
-* [Accessibility](configuration/accessibility.md)
+* [History of Tailwind CSS](introduction/history-of-tailwind-css.md)
+* [Introduction to Tailwind CSS](introduction/introduction-to-tailwind-css.md)
+* [Accessibility](introduction/accessibility.md)
 
-## identity
+## INSTALLATION
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Installation via Tailwind CDN](installation/installation-via-tailwind-cdn.md)
+* [Installation via Tailwind CLI](installation/installation-via-tailwind-cli.md)
+* [Installation for React Project](installation/installation-for-react-project.md)
+
+## UI Components
+
+* [Alert](ui-components/alert.md)
+* [Avatar](ui-components/avatar.md)
+* [Badge](ui-components/badge.md)
+* [Banner](ui-components/banner.md)
+* [Breadcrumb](ui-components/breadcrumb.md)
+* [Button](ui-components/button.md)
+* [Card](ui-components/card.md)
+* [Input](ui-components/input.md)
+* [Navbar](ui-components/navbar.md)
+* [Pagination](ui-components/pagination.md)
 
 ## Components
 
