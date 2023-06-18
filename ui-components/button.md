@@ -1,10 +1,10 @@
 # Button
 
-## Application UI/Buttons
+## UI Components/Buttons
 
 ### Solid Buttons
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Solid Buttons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption><p>Solid Buttons</p></figcaption></figure>
 
 {% code title="" lineNumbers="true" %}
 ```html
@@ -64,7 +64,7 @@
 
 ### Outline Buttons
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Outline Buttons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Outline Buttons</p></figcaption></figure>
 
 {% code title="only_one_button.html" lineNumbers="true" %}
 ```html
@@ -124,7 +124,7 @@
 
 ### Button with Leading Icon
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 {% code title="only_one_button.html" lineNumbers="true" %}
 ```html
@@ -296,7 +296,7 @@
 
 ### Button with Trailing Icon
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 {% code title="only_one_button.html" lineNumbers="true" %}
 ```html
@@ -461,7 +461,7 @@
 
 ### Rounded Button
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 {% code title="" lineNumbers="true" %}
 ```html
@@ -521,7 +521,7 @@
 
 ### Icon Button
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% code title="only_one_button.html" lineNumbers="true" %}
 ```html
