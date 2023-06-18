@@ -64,7 +64,7 @@
 
 ### Outline Buttons
 
-<figure><img src="../.gitbook/assets/image (17).png" alt=""><figcaption><p>Outline Buttons</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Outline Buttons</p></figcaption></figure>
 
 {% code title="only_one_button.html" lineNumbers="true" %}
 ```html

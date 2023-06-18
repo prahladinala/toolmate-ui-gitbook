@@ -1,8 +1,3 @@
----
-cover: ../.gitbook/assets/Tailwind - History (2).png
-coverY: 0
----
-
 # History of Tailwind CSS
 
 <figure><img src="../.gitbook/assets/Tailwind - History.png" alt=""><figcaption></figcaption></figure>
@@ -33,7 +28,7 @@ Overall, Tailwind CSS has made a significant impact on the frontend development 
 
 **Tailwind v0.7.4 Documentation:** [https://tailwindcss-v0.netlify.app/](https://tailwindcss-v0.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 **Tailwind Latest Documentation:** [https://tailwindcss.com/](https://tailwindcss.com/docs/)
 
