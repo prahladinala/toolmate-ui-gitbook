@@ -4,7 +4,7 @@
 
 ### Basic Card
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow-md p-5">
@@ -23,7 +23,7 @@
 
 ### Card with Image
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden">
@@ -45,7 +45,7 @@
 
 ### Horizontal Card
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="flex bg-white border border-gray-200 rounded-lg shadow-md overflow-hidden max-w-2xl">
@@ -67,7 +67,7 @@
 
 ### Card with Icon and Buttons
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow-md p-5 text-center">
@@ -99,7 +99,7 @@
 
 ### Profile Card
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow-md text-center p-5">
@@ -122,7 +122,7 @@
 
 ### Gradient Card
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="max-w-sm p-5 rounded-lg shadow-md text-white bg-gradient-to-r from-purple-500 to-indigo-600">

@@ -91,7 +91,7 @@ For production, you can use other options like Tailwind CLI, Using PostCSS which
 
 Output:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 OR simply clone this GitHub repository:
 
