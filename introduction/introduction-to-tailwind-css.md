@@ -8,7 +8,7 @@ Tailwind CSS is a popular utility-first CSS framework that provides a set of pre
 
 The core philosophy of Tailwind CSS is to give developers complete control over the styling of their interfaces while providing a highly efficient and consistent way of building UIs. It achieves this by offering a large number of small utility classes that can be applied directly in the HTML markup.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ### Features of Tailwind CSS <a href="#heading-features-of-tailwind-css" id="heading-features-of-tailwind-css"></a>
 
