@@ -25,8 +25,8 @@
 * [Navbar](ui-components/navbar.md)
 * [Pagination](ui-components/pagination.md)
 
-## Components
+## Sections
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+* [Hero](sections/hero.md)
+* [CTA](sections/cta.md)
+* [About](sections/about.md)
