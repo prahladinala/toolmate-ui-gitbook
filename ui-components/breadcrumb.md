@@ -4,7 +4,7 @@
 
 ### Basic Breadcrumb
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <nav class="text-gray-500 text-sm" aria-label="Breadcrumb">
@@ -26,7 +26,7 @@
 
 ### Breadcrumb with Chevron Icon
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <nav class="text-gray-500 text-sm" aria-label="Breadcrumb">
@@ -52,7 +52,7 @@
 
 ### Breadcrumbs Bar
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="bg-gray-100 py-3">
@@ -76,7 +76,7 @@
 
 ### Responsive Breadcrumb
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <nav class="text-gray-500 text-sm" aria-label="Breadcrumb">

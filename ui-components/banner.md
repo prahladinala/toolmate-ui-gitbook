@@ -4,7 +4,7 @@
 
 ### Simple Notification Banner
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="bg-blue-600 text-white py-3 px-4 text-center text-sm font-semibold">
@@ -14,7 +14,7 @@
 
 ### Banner with Close Button
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="bg-indigo-600 text-white py-3 px-4 flex items-center justify-between">
@@ -29,7 +29,7 @@
 
 ### Banner with Button
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="bg-purple-600 text-white py-3 px-4 flex items-center justify-between">
@@ -42,7 +42,7 @@
 
 ### Fixed Banner on top
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="fixed top-0 w-full bg-blue-600 text-white py-3 px-4 text-center text-sm font-semibold z-50">
@@ -55,7 +55,7 @@
 
 ### Banner with icon
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="bg-blue-50 border-l-4 border-blue-400 p-4 flex items-center">
@@ -68,7 +68,7 @@
 
 ### Banner variations
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ```html
 <div class="space-y-2">
