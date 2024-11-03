@@ -27,6 +27,6 @@
 
 ## Sections
 
-* [Hero](sections/hero.md)
-* [CTA](sections/cta.md)
-* [About](sections/about.md)
+* [Hero](components/icons.md)
+* [CTA](components/buttons.md)
+* [About](components/inputs.md)
